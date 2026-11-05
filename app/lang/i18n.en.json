@@ -5,6 +5,7 @@
   "GridActionWordForm": "Change word forms",
   "GridActionNavigate": "Navigate to other grid",
   "GridActionARE": "AsTeRICS action",
+  "GridActionScratch": "Scratch action",
   "GridActionOpenHAB": "OpenHAB action",
   "GridActionPredict": "Fill prediction elements",
   "GridActionCollectElement": "Collect element action",

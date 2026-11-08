@@ -1347,4 +1347,10 @@
   "PDF_EXPORTMODE_NORMAL": "Normal",
   "PDF_EXPORTMODE_RESIZE": "Redimensionar elementos",
   "elementSize": "Tamaño de los elementos"
+  "benefits": "Beneficios",
+  "couponCode": "Código de cupón",
+  "walmart": "Walmart",
+  "lidl": "LIDL",
+  "couponCodeWalmart": "COUPONWALMART",
+  "couponCodeLidl": "COUPONLIDI",
 }

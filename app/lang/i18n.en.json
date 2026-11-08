@@ -1346,5 +1346,11 @@
   "exportMode": "Export mode",
   "PDF_EXPORTMODE_NORMAL": "Normal",
   "PDF_EXPORTMODE_RESIZE": "Resize elements",
-  "elementSize": "Element size"
+  "elementSize": "Element size",
+  "benefits": "Benefits",
+  "couponCode": "Coupon Code",
+  "walmart": "Walmart",
+  "lidl": "LIDL",
+  "couponCodeWalmart": "COUPONWALMART",
+  "couponCodeLidl": "COUPONLIDL"
 }

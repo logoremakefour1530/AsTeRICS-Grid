@@ -45,7 +45,30 @@
                 <div class="srow">
                     <input id="chkSyncNavigation" type="checkbox" v-model="appSettings.syncNavigation" @change="saveAppSettings(appSettings)"/>
                     <label for="chkSyncNavigation">{{ $t('synchronizeNavigationAndLockedState') }}</label>
+                    </div>
                 </div>
+        <div class="srow">
+            <accordion :acc-label="$t('benefits')" class="eleven columns">
+                <span>$t('walmart')</span>
+                <span>$t('lidl')</span>
+                <div class="srow">
+                <span>$t('couponcode')</span>
+                    </div>
+                </div>
+            </div>
+         </div>
+    <div class="srow">
+    <span>$t('couponcodewalmart')</span>
+                    </div>
+                </div>
+            </div>
+         </div>
+    <div class="srow">
+    <span>$t('couponcodelidl')</span>
+                     </div>
+                </div>
+            </div>
+         </div>
             </accordion>
         </div>
     </div>

@@ -330,7 +330,7 @@
   "actionsForGlobalGrid": "Acciones del tablero global",
   "activateGlobalGrid": "Activar tablero global",
   "deactivateGlobalGrid": "Desactivar tablero global",
-  "editGlobalGrid": "Editar tablero global",
+  "editGlobalGrid": "Editar tablero global tablero y comunicador",
   "resetGlobalGridToDefault": "Restablecer el tablero global por defecto",
   "newEmptyDictionary": "Nuevo diccionario en blanco",
   "savedDictionaries": "Diccionarios guardados",

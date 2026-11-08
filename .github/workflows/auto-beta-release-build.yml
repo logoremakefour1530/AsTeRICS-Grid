@@ -93,7 +93,7 @@ jobs:
           fi
 
           FULL_REMOTE_PATH="${SANITIZED_USER}/${SANITIZED_BRANCH}${POSTFIX}"
-          PREVIEW_URL="https://gridbeta-github.asterics-foundation.org/${FULL_REMOTE_PATH}"
+          PREVIEW_URL="https://www.astericsgrid.com/${FULL_REMOTE_PATH}"
 
           {
             echo "ACTION=${ACTION}"
